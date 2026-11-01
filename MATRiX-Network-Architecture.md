@@ -1,4 +1,4 @@
-# MATRiX — Network Architecture & Lab Isolation
+# Network Architecture & Lab Isolation
 
 ## Current network layout
 
