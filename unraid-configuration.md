@@ -114,29 +114,6 @@ MATRiX is a private research environment. Apply these practices:
 - Use isolated lab networks for malware execution and intentionally vulnerable applications.
 - Never execute unknown malware on the Unraid host.
 
-## 9. Verification Checklist
-
-Before treating this document as a complete record, verify the following from the current Unraid interface:
-
-- [ ] Unraid version and license details
-- [ ] Array disk and parity assignments
-- [ ] Cache pool membership and filesystem
-- [ ] NVMe partitioning and VM storage location
-- [ ] Share names, storage settings, and access permissions
-- [ ] Docker containers and their current status
-- [ ] VM names, status, CPU/RAM allocation, and network configuration
-- [ ] GPU assignment and passthrough configuration
-- [ ] Tailscale access and network settings
-
-## 10. Planned Documentation
-
-Related MATRiX documentation:
-
-- `hardware-setup.md` — physical server components and assembly
-- `virtualization-architecture.md` — nested virtualization and VM design
-- `network-architecture.md` — network interfaces, bridges, and remote access
-- `security-isolation.md` — lab isolation and safe research practices
-
 ---
 
 **Project:** MATRiX — Malware Analysis & Threat Research Infrastructure (X)  
