@@ -1,4 +1,4 @@
-# MATRiX — Cybersecurity Lab Inventory
+# Cybersecurity Lab Inventory
 
 ## Purpose
 
