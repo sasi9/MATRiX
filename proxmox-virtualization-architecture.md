@@ -26,7 +26,7 @@ Physical Server: ALPHA
 |---|---|---:|---:|---:|
 | FLARE-VM | Proxmox VE | 6 | 8 GB | 100 GB |
 | Kali Linux | Proxmox VE | 6 | 4 GB | 50 GB |
-| OWASP BWA | Unraid | 2 | 1 GB | Not yet confirmed |
+| OWASP BWA | Unraid | 2 | 1 GB | NA |
 
 **Proxmox VE allocation:** 12 GB RAM was assigned to the Proxmox VE parent VM in Unraid.
 
