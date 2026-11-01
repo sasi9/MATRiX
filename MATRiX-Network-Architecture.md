@@ -54,5 +54,3 @@ NAT commonly allows outbound connectivity through the host or virtual network wh
 7. Use clean VM snapshots before exercises and revert afterward.
 
 ---
-
-*This document records the network modes reported for the current MATRiX setup. Update it after the lab network has been isolated and verified.*
