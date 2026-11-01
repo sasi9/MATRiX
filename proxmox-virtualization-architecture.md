@@ -57,16 +57,4 @@ The listed CPU counts are virtual CPU allocations, not proof that those cores ar
 - Do not publish private IP addresses, hostnames, credentials, API keys, tokens, or sample files in this repository.
 - Use only systems and applications for which you have explicit authorization.
 
-## Verification checklist
-
-- [x] Proxmox VE runs as a VM under Unraid.
-- [x] FLARE-VM is deployed in Proxmox VE.
-- [x] Kali Linux is deployed in Proxmox VE.
-- [x] OWASP BWA runs as a separate Unraid-managed VM.
-- [ ] Confirm OWASP BWA virtual disk size.
-- [ ] Record the lab network mode and isolation controls.
-- [ ] Add sanitized screenshots showing the VM inventory and settings.
-
 ---
-
-*This document records the configuration details provided for the MATRiX lab. Update it whenever VM resources or placement change.*
