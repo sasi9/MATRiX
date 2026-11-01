@@ -53,19 +53,6 @@ NAT commonly allows outbound connectivity through the host or virtual network wh
 6. Do not configure internet port forwarding to any lab VM.
 7. Use clean VM snapshots before exercises and revert afterward.
 
-## Details still to verify
-
-- [x] Kali Linux uses bridged networking to the normal home LAN.
-- [x] OWASP BWA uses bridged networking to the normal home LAN.
-- [x] FLARE-VM uses NAT networking.
-- [ ] Create and verify a dedicated isolated network for OWASP BWA and Kali testing.
-- [ ] Confirm FLARE-VM has no unintended route to the home LAN.
-- [ ] Record sanitized bridge/NAT design and firewall rules. Do not publish private IPs, hostnames, credentials, keys, or tokens.
-
-## Important
-
-Until OWASP BWA is isolated, avoid powering it on for routine use. Do not run live malware in FLARE-VM while it can access trusted systems, shared folders, or personal data.
-
 ---
 
 *This document records the network modes reported for the current MATRiX setup. Update it after the lab network has been isolated and verified.*
