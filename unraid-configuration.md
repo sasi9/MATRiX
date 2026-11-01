@@ -115,7 +115,3 @@ MATRiX is a private research environment. Apply these practices:
 - Never execute unknown malware on the Unraid host.
 
 ---
-
-**Project:** MATRiX — Malware Analysis & Threat Research Infrastructure (X)  
-**Document:** Unraid Configuration  
-**Status:** Initial documentation; verify checklist items against the live server.
